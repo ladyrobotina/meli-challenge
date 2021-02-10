@@ -1,0 +1,14 @@
+.product {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0 3px rgba(0, 0, 0, 0.25);
+  padding: 12px;
+  font-family: sans-serif;
+}
+
+.imgProduct {
+  object-fit: contain;
+  width: 30%;
+  height: 30%;
+}

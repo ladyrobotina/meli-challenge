@@ -1,0 +1,22 @@
+.home {
+  background-color: rgb(230, 222, 222);
+}
+
+.home_image {
+  width: 100%;
+  z-index: -1;
+  margin-bottom: 20px;
+  /* mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0)); */
+}
+
+h1 {
+  color: #666666;
+  font: 26px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: 0px, 0px, 0px, 18px;
+}
+
+/* .home_cardPayment {
+  display: flex;
+  flex-direction: row;
+} */
