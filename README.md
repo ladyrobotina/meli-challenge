@@ -4,7 +4,7 @@ Building this app with intention of learning React
 
 ## 📱 Screenshot
 
-![meli](https://github.com/valerisvso/rick-and-morty-react/blob/master/valerisvso.github.io_rick-and-morty-react_.png)
+![meli](https://github.com/valerisvso/meli-challenge/blob/main/localhost_3000__query%3Dperro(iPhone%206_7_8%20Plus).png)
 
 
 ## 📚 Technical Details
